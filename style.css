@@ -1,34 +1,27 @@
-*{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    margin: 0;
-    padding: 0;
-}
-
 body{
-    background-color: #EFF4FB;
+    background-color: #dcdcdc;
 }
-.header{
-    margin-left: 190px;
-    margin-top: 220px;
-    width: 430px;
+.headering{
     float: left;
-    font-family: 'Mulish', sans-serif;
+    margin-left: 190px;
+    margin-top: 150px;
+    width: 430px;
+    font-family: 'Nanum Gothic', sans-serif;
 }
-h3{
+h1{
     color: #0A85FF;
-    font-size: 40px;
 }
-.para{
-    font-size: 22px;
+.paragraphy{
+    margin-bottom: 10px;
 }
-.formm{
-    margin-left: 160px;
-margin-top: 150px;
-display: inline-block;
-background-color: white;
-width: 420px;
-height:310px;
-border-radius: 15px;
+.box{
+    margin-left: 100px;
+    margin-top: 150px;
+    display: inline-block;
+    background-color: white;
+    width: 420px;
+    height:310px;
+    border-radius: 15px;
 }
 input{
     width: 360px;
@@ -42,19 +35,19 @@ button {
     width: 393px;
     text-align: center;
     border-radius: 4px;
-   border: none;
-   padding: 15px;
-   margin-left: 15px ;
-   margin-top: 14px;
+    border: none;
+    padding: 15px;
+    margin-left: 15px ;
+    margin-top: 14px;
 }
 a{
     color: #0A85FF;
-margin-left: 140px;
-font-size: 14px;
-line-height: 40px;
+    margin-left: 140px;
+    font-size: 14px;
+    line-height: 40px;
 }
 .lastbutton {
-    background-color: rgb(35, 168, 18);
+    background-color: #59BF3F;
     width: 173px;
     margin-left: 126px;
 }
